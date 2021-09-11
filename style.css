@@ -1,0 +1,72 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color:rgb(58, 148, 148);
+    font-size: 30px;
+}
+.header_div {
+font-family: 'WindSong', cursive;
+background:white;
+color:rgb(139, 161, 236);
+}
+.header_div img {
+    width:100px;
+}
+
+.main_div {
+    background:lightcyan;
+    padding:20px;
+    margin-top:15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+ width:310px;
+ padding:10px;
+ margin-bottom: 0px;
+ box-shadow: 5px 5px 18px black;  
+}
+.main_div button {
+    box-shadow: 5px 5px 18px black;  
+}
+
+#camera, #result  {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img{
+width: 70px;
+}
+
+.copy_right_footer_div {
+    position: fixed;
+    color:grey;
+    bottom: 0;
+    background: white;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    box-shadow: 5px 5px 18px 18px white;
+
+}
+
+#result img {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px;
+}
